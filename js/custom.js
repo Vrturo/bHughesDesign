@@ -125,7 +125,7 @@ $(document).ready(function () {
     if ($(".element").length) {
       $(function () {
         $(".element").typed({
-          strings: ["Hi,", "I'm<br>Bobbie Hughes", "Eat.<br><span style='color:black;text-decoration:line-through'><span style='color:red'>Sleep.</span></span><br>Design.<br>Repeat."],
+          strings: ["Hi,", "I'm<br>Bobbie Hughes", "Eat.<br><span style='color:black;text-decoration:line-through'><span class='text-color'>Sleep.</span></span><br>Design.<br>Repeat."],
           typeSpeed: 100,
           loop: true,
           backDelay: 2000
