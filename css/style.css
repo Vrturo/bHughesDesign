@@ -218,7 +218,7 @@ b {
 }
 
 .text-dark {
-  color: #424242;
+  color: black;
 }
 
 /* _____________________________________
@@ -779,7 +779,7 @@ header.scroll {
 }
 
 .hero-image-light {
-  background: url("../images/placeholder-hero.jpg") no-repeat top;
+  background: url("../images/slide1.jpg") no-repeat top;
 }
 
 .hero-image-dark {
@@ -787,15 +787,15 @@ header.scroll {
 }
 
 .hero-slide-1-light {
-  background-image: url("../images/placeholder-2400-1450.jpg");
+  background-image: url("../images/slide1.jpg");
 }
 
 .hero-slide-2-light {
-  background-image: url("../images/placeholder-2400-1450.jpg");
+  background-image: url("../images/slide2.jpg");
 }
 
 .hero-slide-3-light {
-  background-image: url("../images/placeholder-2400-1450.jpg");
+  background-image: url("../images/slide3.jpg");
 }
 
 .hero-slide-1-dark {
@@ -815,6 +815,7 @@ header.scroll {
   background-size: cover;
   height: 100vh;
   min-height: 700px;
+  opacity: .5;
 }
 
 .typed-cursor {
