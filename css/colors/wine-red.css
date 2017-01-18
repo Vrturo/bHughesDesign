@@ -1,9 +1,9 @@
 hr.hr-color {
-  border-color: #860dod;
+  border-color: #860d0d;
 }
 
 .circles span {
-  border-color: #860dod;
+  border-color: #860d0d;
 }
 
 .logo {
@@ -11,33 +11,33 @@ hr.hr-color {
 }
 
 .text-color {
-  color: #860dod;
+  color: #860d0d;
 }
 
 .bg-color {
-  background-color: #860dod;
+  background-color: #860d0d;
 }
 
 a:hover,
 a:active,
 a:focus {
-  color: #860dod;
+  color: #860d0d;
 }
 
 a.link-color {
-  color: #860dod;
+  color: #860d0d;
 }
 
 a.link-color:hover,
 a.link-color:active,
 a.link-color:focus {
-  color: #860dod;
+  color: #860d0d;
 }
 
 a.link-light:hover,
 a.link-light:active,
 a.link-light:focus {
-  color: #860dod;
+  color: #860d0d;
 }
 
 .btn-color,
@@ -48,15 +48,15 @@ a.btn-color,
 a.btn-color:hover,
 a.btn-color:active,
 a.btn-color:focus {
-  background-color: #860dod;
+  background-color: #860d0d;
 }
 
 .btn-border-color,
 a.btn-border-color,
 .btn-border-color-dark,
 a.btn-border-color-dark {
-  color: #860dod;
-  border-color: #860dod;
+  color: #860d0d;
+  border-color: #860d0d;
 }
 
 .btn-border-color:hover,
@@ -71,82 +71,82 @@ a.btn-border-color:focus,
 a.btn-border-color-dark:hover,
 a.btn-border-color-dark:active,
 a.btn-border-color-dark:focus {
-  background-color: #860dod;
+  background-color: #860d0d;
 }
 
 .form-control:focus {
-  border-color: #860dod;
+  border-color: #860d0d;
 }
 
 .error .form-control:-moz-placeholder {
-  color: #860dod;
+  color: #860d0d;
 }
 
 .error .form-control::-moz-placeholder {
-  color: #860dod;
+  color: #860d0d;
 }
 
 .error .form-control:-ms-input-placeholder {
-  color: #860dod;
+  color: #860d0d;
 }
 
 .error .form-control::-webkit-input-placeholder {
-  color: #860dod;
+  color: #860d0d;
 }
 
 .form-control-color {
   background-color: transparent;
-  border: 1px solid #860dod;
+  border: 1px solid #860d0d;
 }
 
 #message-contact.error {
-  background-color: #860dod;
+  background-color: #860d0d;
 }
 
 .ball-pulse-color > div {
-  border-color: #860dod;
+  border-color: #860d0d;
 }
 
 .sidebar li:before {
-  background-color: #860dod;
-  border-color: #860dod;
+  background-color: #860d0d;
+  border-color: #860d0d;
 }
 
 .sidebar > li.active > a,
 .sidebar > li > a:hover {
-  color: #860dod;
+  color: #860d0d;
 }
 
 .navbar-button span {
-  background-color: #860dod;
+  background-color: #860d0d;
 }
 
 .progress-bar {
-  background-color: #860dod;
+  background-color: #860d0d;
 }
 
 .portfolio-border {
-  border-color: #860dod;
+  border-color: #860d0d;
 }
 
 .timeline .marker.filled:before {
-  background-color: #860dod;
-  border-color: #860dod;
+  background-color: #860d0d;
+  border-color: #860d0d;
 }
 
 .tweet:after {
-  border-color: #860dod;
+  border-color: #860d0d;
 }
 
 .owl-theme .owl-dots .owl-dot span {
-  border-color: #860dod;
+  border-color: #860d0d;
 }
 
 .owl-theme .owl-dots .owl-dot.active span,
 .owl-theme .owl-dots .owl-dot:hover span {
-  background-color: #860dod;
+  background-color: #860d0d;
 }
 
 .owl-carousel a {
-  color: #860dod;
+  color: #860d0d;
 }
