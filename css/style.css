@@ -900,6 +900,9 @@ dl.dl-horizontal.dl-horizontal-250 {
 
    10. Portfolio Section
    _____________________________________ */
+.portfolio-link{
+  text-decoration: none;
+}
 
 .portfolio-content {
   padding: 20px;
