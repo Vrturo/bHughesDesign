@@ -900,7 +900,8 @@ dl.dl-horizontal.dl-horizontal-250 {
 
    10. Portfolio Section
    _____________________________________ */
-.portfolio-link{
+.portfolio-link:hover,
+.portfolio-link:visited{
   text-decoration: none;
 }
 
