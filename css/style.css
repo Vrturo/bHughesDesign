@@ -935,11 +935,11 @@ dl.dl-horizontal.dl-horizontal-250 {
   box-shadow: 0 10px 20px rgba(0, 0, 0, 1);
 }
 .inline-bullet {
-  font-size: 1.8em;
+  font-size: .85em;
 }
 .inline-bullet li {
   float: right;
-  margin-right: 1.7em;
+  margin-right: 1.95em;
 }
 
 /* _____________________________________
