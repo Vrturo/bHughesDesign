@@ -934,12 +934,19 @@ dl.dl-horizontal.dl-horizontal-250 {
 .portfolio-shadow-dark:hover {
   box-shadow: 0 10px 20px rgba(0, 0, 0, 1);
 }
-.inline-bullet {
+.inline-bullet-three {
   font-size: .85em;
 }
-.inline-bullet li {
+.inline-bullet-three li {
   float: right;
   margin-right: 1.95em;
+}
+.inline-bullet-four {
+  font-size: .65em;
+}
+.inline-bullet-four li {
+  float: right;
+  margin-right: 1.8em;
 }
 
 /* _____________________________________
